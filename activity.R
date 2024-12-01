@@ -1,3 +1,5 @@
+#this plots activity graphs and calculates the % of the day active for each species.
+
 # Load required libraries
 library(dplyr)
 library(tidyr)
