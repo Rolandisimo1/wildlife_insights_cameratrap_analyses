@@ -1,6 +1,7 @@
 #This code is useful for seeting if a species is avoiding or attracted to a camera trap right after
 #the camera is set. It calculates the detection rate for each day (day0 = when camera is set) for 
 #all cameras in the dataset. 
+#Note there is a dialog to choose what scale to plot the x axis
 
 library(dplyr)
 library(ggplot2)
