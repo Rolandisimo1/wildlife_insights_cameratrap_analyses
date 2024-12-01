@@ -1,3 +1,6 @@
+#Calculates the detection rate per species for each deployment
+#output is a .csv
+#removes any species with <10 total detections
 library(dplyr)
 library(ggplot2)
 library(lubridate)
