@@ -1,3 +1,7 @@
+#Plots species accumulation curves for each subproject.
+#Defaut settings plot only mammals and exclude domestics
+#also returns a summary of what species are detected in each subproject, useful QC step.
+
 # Load required libraries
 library(iNEXT)
 library(ggplot2)  
